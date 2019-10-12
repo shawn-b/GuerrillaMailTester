@@ -1,0 +1,16 @@
+NAME
+    gm_test_runner.py - run guerrilla mail website tester
+
+SYNOPSIS
+    python gm_test_runner.py [OPTION]
+
+DESCRIPTION
+    This automated test script checks the following various emailing 
+    capabilities of the Guerrilla Mail website:
+        - Composing an email
+        - Sending an email
+        - Deleting an email
+
+OPTIONS
+    -h, --help
+        display this help and exit
